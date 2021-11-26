@@ -1,0 +1,15 @@
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\exercicio55.exe
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\exercicio55.deps.json
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\exercicio55.runtimeconfig.json
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\exercicio55.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\ref\exercicio55.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\bin\Debug\net6.0\exercicio55.pdb
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.csproj.AssemblyReference.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.AssemblyInfoInputs.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.AssemblyInfo.cs
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.csproj.CoreCompileInputs.cache
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\ref\exercicio55.dll
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.pdb
+C:\Users\brail\OneDrive\Área de Trabalho\treinamento CSharp dotnet\ListaExercicios01\exercicio55\obj\Debug\net6.0\exercicio55.genruntimeconfig.cache

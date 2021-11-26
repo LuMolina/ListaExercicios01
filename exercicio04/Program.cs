@@ -6,9 +6,27 @@ namespace Exercicio04
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Digite o valor do seu salário: ");
-            string textoSalario = Console.ReadLine();
-            double salario = Convert.ToDouble(textoSalario);
+double salario = 0;
+bool digitacaoInvalida = true;
+            
+            while (digitacaoInvalida)
+            {
+                try
+                {
+Console.WriteLine("Digite o valor do seu salário: ");
+                    string textoSalario = Console.ReadLine();
+                    salario = Convert.ToDouble(textoSalario);
+if(salario >0)
+digitacaoInvalida = false;
+else 
+throw new Exception();//forçar erro para que a execussão vá para o bloco catch.
+}
+catch 
+{
+                    Console.WriteLine("Erro: salário inválido");
+}
+                   
+            }
             Console.WriteLine("O valor do seu salário antes do reajuste é de> " + salario);
             if (salario <= 2800)
             {
